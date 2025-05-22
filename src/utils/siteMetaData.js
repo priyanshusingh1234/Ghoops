@@ -6,7 +6,7 @@ const siteMetadata = {
     description: 'Explore many topics and its depth with ghoops.',
     language: 'en-us',
     theme: 'system', // system, dark or light
-    siteUrl: 'https://Ghoops!.app', // your website URL
+    siteUrl: 'https://ghoops.vercel.app', // your website URL
     siteLogo: '/logo.png',
     socialBanner: '/social-banner.png', // add social banner in the public folder
     email: 'kpk22128@gmail.com', 
