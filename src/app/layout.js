@@ -51,6 +51,9 @@ export const metadata = {
     title: siteMetadata.title,
     images: [siteMetadata.socialBanner],
   },
+   verification: {
+    google: "avrkR73RQOAVvrKDWla0Rk6QGr4Pn33fj7ORrHAOMWQ",
+  },
 };
 
 export default function RootLayout({ children }) {
